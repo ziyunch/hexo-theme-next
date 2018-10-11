@@ -13,15 +13,18 @@ menu:
   search: 搜索
   schedule: 日程表
   sitemap: 站点地图
-  commonweal: 公益 404
+  commonweal: 公益404
+  research: 研究
+  technique: 技术
+  workout: 健身
 sidebar:
   overview: 站点概览
   toc: 文章目录
 post:
   posted: 发表于
   edited: 更新于
-  created: 创建时间
-  modified: 修改时间
+  created: 创建于
+  modified: 修改于
   edit: 编辑
   in: 分类于
   more: 更多
@@ -95,4 +98,4 @@ symbols_count_time:
   count_total: 站点总字数
   time: 阅读时长
   time_total: 站点阅读时长
-  time_minutes: 分钟
+  time_minutes: min
