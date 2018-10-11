@@ -169,8 +169,8 @@ social:
   #YouTube: https://youtube.com/yourname || youtube
   Instagram: https://instagram.com/ziyunch || instagram
   #Skype: skype:yourname?call|chat || skype
-  ΢��: http://weibo.com/ziyunch || weibo
-  ����: http://douban.com/people/ziyunch || book
+  Weibo: http://weibo.com/ziyunch || weibo
+  Douban: http://douban.com/people/ziyunch || book
 
 social_icons:
   enable: true
